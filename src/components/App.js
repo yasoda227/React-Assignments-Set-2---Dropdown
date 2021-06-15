@@ -142,9 +142,9 @@ function App()
 {
 	// Do not alter/remove main div
 	return (
-	<div id="main">
-		<States states={states} />
-	</div>
+		<div id="main">
+		<Items states={states} />
+	  </div>
 	);
 }
 
