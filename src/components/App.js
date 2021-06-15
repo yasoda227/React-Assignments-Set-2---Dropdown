@@ -1,6 +1,6 @@
 import React, { useState,useReducer } from "react";
 import "./../styles/App.css";
-
+import Items from "./Items"
 
 const states = [{
 	name : "Madhya Pradesh",
